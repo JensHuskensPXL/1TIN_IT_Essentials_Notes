@@ -1,0 +1,19 @@
+ondergrens = wel inclusief
+bovengrens = niet inclusief
+
+----- Oefening 4.10 -------
+
+p
+py
+yt
+to
+on
+n
+
+---- p15 ----
+
+2
+3
+4
+
+4

@@ -1,0 +1,19 @@
+---- 2.4 P10 ----
+
+
+
+---- 2.6 p14 ----
+
+
+- 100
+- 112
+- 99
+- 
+- 1 
+
+---- 2.7 p15 ----
+
+Commentaar
+
+#CTR + / = shortcut comment with line comment "code => comment with line comment"
+

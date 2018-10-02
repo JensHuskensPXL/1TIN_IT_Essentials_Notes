@@ -1,0 +1,18 @@
+a = 5 ( waarde toegekend aan a)
+a == 5 (kijken of 5 in waarde a zit)
+
+
+ASCII Code tabel 
+
+eerst getallen dan hoofdletters dan kleine letters
+
+relatieve operateren		!!!
+rekenkundige operatoren		!!!
+logische operatoren		P18	!!!
+
+bij het combineren, haakjes plaatsen = leesbaarder
+
+or maar 1ne true
+and 2x true
+
+duckprogramming = hardop tegen jezelf praten tot je het antwoord hebt
